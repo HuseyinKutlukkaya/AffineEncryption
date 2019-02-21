@@ -1,0 +1,10 @@
+C:\Users\Hüseyin Kutlukkaya\Desktop\VasıfHocaOdevler\AfinŞifreleme\AfinŞifreleme\bin\Debug\AfinŞifreleme.exe.config
+C:\Users\Hüseyin Kutlukkaya\Desktop\VasıfHocaOdevler\AfinŞifreleme\AfinŞifreleme\bin\Debug\AfinŞifreleme.exe
+C:\Users\Hüseyin Kutlukkaya\Desktop\VasıfHocaOdevler\AfinŞifreleme\AfinŞifreleme\bin\Debug\AfinŞifreleme.pdb
+C:\Users\Hüseyin Kutlukkaya\Desktop\VasıfHocaOdevler\AfinŞifreleme\AfinŞifreleme\obj\Debug\AfinŞifreleme.Form1.resources
+C:\Users\Hüseyin Kutlukkaya\Desktop\VasıfHocaOdevler\AfinŞifreleme\AfinŞifreleme\obj\Debug\AfinŞifreleme.Properties.Resources.resources
+C:\Users\Hüseyin Kutlukkaya\Desktop\VasıfHocaOdevler\AfinŞifreleme\AfinŞifreleme\obj\Debug\AfinŞifreleme.csproj.GenerateResource.Cache
+C:\Users\Hüseyin Kutlukkaya\Desktop\VasıfHocaOdevler\AfinŞifreleme\AfinŞifreleme\obj\Debug\AfinŞifreleme.exe
+C:\Users\Hüseyin Kutlukkaya\Desktop\VasıfHocaOdevler\AfinŞifreleme\AfinŞifreleme\obj\Debug\AfinŞifreleme.pdb
+C:\Users\Hüseyin Kutlukkaya\Desktop\VasıfHocaOdevler\AfinŞifreleme\AfinŞifreleme\obj\Debug\AfinŞifreleme.csprojAssemblyReference.cache
+C:\Users\Hüseyin Kutlukkaya\Desktop\VasıfHocaOdevler\AfinŞifreleme\AfinŞifreleme\obj\Debug\AfinŞifreleme.csproj.CoreCompileInputs.cache
