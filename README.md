@@ -1,4 +1,4 @@
-# AffineSifrelemeCozme
-Oluşturulma tarihi:25 Nisan 2018
-Affine şifreleme methodu kullanılarak  şifrelenmiş bir metini  kelime veritabanı kullarak çözer.
-Başlangıçta sözlük.txtyi seçiniz 
+# Affine Encryption 
+Created on:25 April 2018
+Decrypts a text encrypted using the affine encryption method using word-by-word crypto.
+select sözlük.txt at startup
